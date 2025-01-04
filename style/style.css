@@ -4,10 +4,11 @@
     margin: 10px;
 }
 
-.img{
-    height: 500px;
-    width: 300px;
+.me img{
+    width: 50%;
     justify-content: center;
     border: 10px solid blueviolet;
-    box-shadow: 10px 15px 15px;
+    border-top: none;
+    border-left: none;
+    box-shadow: 10px 15px 20px;
 }
