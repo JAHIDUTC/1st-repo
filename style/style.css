@@ -3,6 +3,8 @@
     padding: 10px;
     margin: 10px;
     width: 50%;
+    border: 10px solid blueviolet;
+    border-radius: 15px;
 }
 
 .me img{
