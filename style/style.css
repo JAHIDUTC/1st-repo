@@ -3,3 +3,11 @@
     padding: 10px;
     margin: 10px;
 }
+
+.img{
+    height: 500px;
+    width: 300px;
+    justify-content: center;
+    border: 10px solid blueviolet;
+    box-shadow: 10px 15px 15px;
+}
